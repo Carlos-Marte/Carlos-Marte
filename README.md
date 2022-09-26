@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy <a href="#" target="_blank" style="color: #EFD843">Carlos</a>! 👋</h1>
+<h1 align="center">¡Hola, soy <a href="#" target="_blank">Carlos</a>! 👋</h1>
 
 <br>
 
