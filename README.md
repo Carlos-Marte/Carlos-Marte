@@ -2,12 +2,14 @@
 
 <br>
 
+<!-- Sobre mi -->
 ## :raised_hand: Sobre mí
 
 * Por escribir.... 🔜
 
 <br>
 
+<!-- Habilidades -->
 ## :books: Mis Habilidades
 <br>
 
@@ -45,6 +47,13 @@
     <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="70px" title="MySQL" alt="MySQL Icon">
 </p>
 
-📊 ## GitHub Stats
+<br>
+
+<!-- Stats -->
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos-marte)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=carlos-marte&langs_count=10&show_icons=true&locale=en&layout=compact)
+
