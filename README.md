@@ -5,7 +5,7 @@
 <!-- Sobre mi -->
 ## :raised_hand: Sobre mí
 
-* Por escribir.... 🔜
+* Un desarrollador amante del Hardware. Intentado mejorar cada día.
 
 <br>
 
