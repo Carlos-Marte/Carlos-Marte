@@ -36,8 +36,6 @@
 <p align="center"> 
     <!-- GIT ICON -->
     <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="50px" title="GIT" alt="GIT Icon">
-    <!-- GITHUB ICON -->
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px" title="GitHub" alt="Github Icon">
 </p>
 
 :pushpin: **Base de datos**
