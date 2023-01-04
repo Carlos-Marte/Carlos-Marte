@@ -17,7 +17,7 @@
 
 <p align="center"> 
     <!-- JAVA ICON -->
-    <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="55px" title="Java" alt="Java Icon">
+    <!--<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="55px" title="Java" alt="Java Icon">-->
     <!-- JS ICON -->
     <img src="https://img.icons8.com/color/344/javascript--v1.png" width="50px" title="Javascript" alt="JS Icon"> 
 </p>
