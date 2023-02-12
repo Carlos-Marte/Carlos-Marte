@@ -29,6 +29,8 @@
     <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="50px" title="HTML5" alt="HTML5 Icon">
     <!-- CSS3 ICON -->
     <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="45px" title="CSS3" alt="CSS Icon">
+    <!-- SASS ICON -->
+    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="45px" title="SASS" alt="SASS Icon">
 </p>
 
 :pushpin: **Software & Herramientas**
