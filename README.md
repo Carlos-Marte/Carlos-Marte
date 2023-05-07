@@ -2,7 +2,7 @@
 <img src="./assets/Banner-Caveat.png" alt="Banner" style="width: 100%; object-fit: cover" loading="lazy">
 
 <!-- Por cambiar -->
-<p style="text-align: center">
+<p align="center">
 Un desarrollador amante del Hardware. Intentado mejorar cada día.
 </p>
 
