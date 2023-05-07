@@ -1,11 +1,12 @@
+<!-- Banner -->
 <img src="./assets/Banner-Caveat.png" alt="Banner" style="width: 100%; object-fit: cover" loading="lazy">
 
-<br>
+<!-- Por cambiar -->
+<p style="text-align: center">
+Un desarrollador amante del Hardware. Intentado mejorar cada día.
+</p>
 
-<!-- Sobre mi -->
-## :raised_hand: Sobre mí
-
-* Un desarrollador amante del Hardware. Intentado mejorar cada día.
+##
 
 <br>
 
