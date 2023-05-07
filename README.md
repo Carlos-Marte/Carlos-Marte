@@ -1,4 +1,4 @@
-<img src="./assets/Banner.png" alt="Banner" style="width: 100%; object-fit: cover">
+<img src="./assets/Banner-Caveat.png" alt="Banner" style="width: 100%; object-fit: cover" loading="lazy">
 
 <br>
 
