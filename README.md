@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy <a href="#" target="_blank">Carlos</a>! 👋</h1>
+<img src="./assets/Banner.png" alt="Banner" style="width: 100%; object-fit: cover">
 
 <br>
 
