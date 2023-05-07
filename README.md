@@ -11,8 +11,7 @@ Un desarrollador amante del Hardware. Intentado mejorar cada día.
 <br>
 
 <!-- Habilidades -->
-<img src="./assets/Habilidades.png" alt="Banner" style="display: block; margin: 0 auto" loading="lazy">
-<br>
+<h2 align"center">Habilidades</h2>
 
 :pushpin: **Lenguajes de programación**
 
