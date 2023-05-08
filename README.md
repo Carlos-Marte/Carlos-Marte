@@ -11,7 +11,7 @@ Un desarrollador amante del Hardware. Intentado mejorar cada día.
 <br>
 
 <!-- Habilidades -->
-<h2 align"center">Habilidades</h2>
+<h2 align="center">Habilidades</h2>
 
 :pushpin: **Lenguajes de programación**
 
