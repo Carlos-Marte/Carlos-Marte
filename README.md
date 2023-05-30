@@ -31,6 +31,10 @@ Un desarrollador amante del Hardware. Intentado mejorar cada día.
     <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="45px" title="CSS3" alt="CSS Icon">
     <!-- SASS ICON -->
     <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="45px" title="SASS" alt="SASS Icon">
+     <!-- TAILWIND ICON -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="45px" title="TAILWIND" alt="TAILWIND Icon">
+     <!-- REACT ICON -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="45px" title="REACT" alt="REACT Icon">
 </p>
 
 :pushpin: **Software & Herramientas**
