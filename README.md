@@ -1,9 +1,9 @@
-<!-- Banner -->
-<img src="./assets/Banner-Caveat.png" alt="Banner" style="width: 100%; object-fit: cover" loading="lazy">
+<!-- Profile Icon -->
+<img src="./assets/profile.jpg" alt="Profile Icon" style="display: block; margin: 0 auto; object-fit: cover; border-radius: 50%" loading="lazy">
 
 <!-- Por cambiar -->
-<p align="center">
-Un desarrollador amante del Hardware. Intentado mejorar cada día.
+<p style="margin-top: 2em;"  align="center">
+Desarrollador Frontend dedicado a soluciones eficientes, legibles y mantenibles. Mejorando cada día.
 </p>
 
 ##
@@ -13,42 +13,21 @@ Un desarrollador amante del Hardware. Intentado mejorar cada día.
 <!-- Habilidades -->
 <h2 align="center">Habilidades</h2>
 
-:pushpin: **Lenguajes de programación**
-
-<p align="center"> 
-    <!-- JAVA ICON -->
-    <!--<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="55px" title="Java" alt="Java Icon">-->
-    <!-- JS ICON -->
-    <img src="https://img.icons8.com/color/344/javascript--v1.png" width="50px" title="Javascript" alt="JS Icon"> 
-</p>
-
-:pushpin: **Desarrollo Front-end**
-
 <p align="center"> 
     <!-- HTML ICON -->
-    <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="50px" title="HTML5" alt="HTML5 Icon">
+    <img src="./assets/icon-html.svg" title="Html5" alt="HTML5 Icon">
     <!-- CSS3 ICON -->
-    <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="45px" title="CSS3" alt="CSS Icon">
+    <img src="./assets/icon-css.svg" title="CSS3" alt="CSS Icon">
+    <!-- JS ICON -->
+    <img src="./assets/icon-js.svg" title="Javascript" alt="JS Icon"> 
     <!-- SASS ICON -->
-    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="45px" title="SASS" alt="SASS Icon">
+    <img src="./assets/icon-sass.svg" title="SASS" alt="SASS Icon">
      <!-- TAILWIND ICON -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="45px" title="TAILWIND" alt="TAILWIND Icon">
+    <img src="./assets/icon-tailwind.svg" title="Tailwind" alt="TAILWIND Icon">
      <!-- REACT ICON -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="45px" title="REACT" alt="REACT Icon">
-</p>
-
-:pushpin: **Software & Herramientas**
-
-<p align="center"> 
+    <img src="./assets/icon-resct.svg" title="React" alt="REACT Icon">
     <!-- GIT ICON -->
-    <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="50px" title="GIT" alt="GIT Icon">
-</p>
-
-:pushpin: **Base de datos**
-
-<p align="center"> 
-    <!-- MySQL ICON -->
-    <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="70px" title="MySQL" alt="MySQL Icon">
+    <img src="./assets/icon-git.svg" title="Git" alt="GIT Icon">
 </p>
 
 <br>
