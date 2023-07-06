@@ -38,6 +38,12 @@ Desarrollador Frontend dedicado a soluciones eficientes, legibles y mantenibles.
 
 ## 📊 GitHub Stats
 
+![](https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos-marte)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=carlos-marte&langs_count=10&show_icons=true&locale=en&layout=compact)
