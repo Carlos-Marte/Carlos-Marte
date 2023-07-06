@@ -38,10 +38,8 @@ Desarrollador Frontend dedicado a soluciones eficientes, legibles y mantenibles.
 
 <h2 align="center">📊 GitHub Stats</h2>
  
-<a href="#">
+<p align="center">
     <img src="https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/overview.svg#gh-light-mode-only" />
     <img src="https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/languages.svg#gh-light-mode-only" />
-</a>
+</p>
 
