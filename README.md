@@ -1,6 +1,6 @@
 <!-- Profile Icon -->
 <p align="center">
-    <img src="./assets/profile-rounded.png" alt="Profile Icon" loading="lazy">
+    <img src="./assets/profile-rounded.png" alt="Profile Icon" title="Carlos Marte" loading="lazy">
 </p>
 
 <br/>
