@@ -1,5 +1,7 @@
 <!-- Profile Icon -->
-<img src="./assets/profile.jpg" alt="Profile Icon" style="display: block; margin: 0 auto; object-fit: cover; border-radius: 50%" loading="lazy">
+<p align="center">
+    <img src="./assets/profile-rounded.png" alt="Profile Icon" loading="lazy">
+</p>
 
 <!-- Por cambiar -->
 <p style="margin-top: 2em;"  align="center">
@@ -11,7 +13,7 @@ Desarrollador Frontend dedicado a soluciones eficientes, legibles y mantenibles.
 <br>
 
 <!-- Habilidades -->
-<h2 align="center">Habilidades</h2>
+<h2 align="center" >Habilidades</h2>
 
 <p align="center"> 
     <!-- HTML ICON -->
