@@ -3,14 +3,14 @@
     <img src="./assets/profile-rounded.png" alt="Profile Icon" loading="lazy">
 </p>
 
+<br/>
+
 <!-- Por cambiar -->
-<p style="margin-top: 2em;"  align="center">
+<p  align="center">
 Desarrollador Frontend dedicado a soluciones eficientes, legibles y mantenibles. Mejorando cada día.
 </p>
 
-##
-
-<br>
+<br/>
 
 <!-- Habilidades -->
 <h2 align="center" >Habilidades</h2>
