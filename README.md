@@ -1,159 +1,39 @@
-<main
-  style="
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 1.5em;
-    text-align: center;
-  "
->
-  <!-- Profile Icon -->
-  <img
-    src="./assets/profile.jpeg"
-    alt="Profile Icon of Carlos Marte"
-    title="Carlos Marte"
-    style="border-radius: 100%; width: 256px;"
-  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=#d7b2df"  />
+</div>
 
-  <!-- Descripción -->
-  <p style="line-height: 1.5">
-    Desarrollador Frontend enfocado a crear interfaces eficientes, legibles y mantenibles. Mejorando cada día.
-  </p>
+###
 
-  <!-- Habilidades -->
-  <section style="width: 100%">
-    <h2 style="margin: 0; margin-bottom: 1em; padding: 0; letter-spacing: 2.5px;">Habilidades ⚙️</h2>
-    <ul
-        style="
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
-        gap: 1em;
-        list-style: none;
-        padding: 0;
-        margin: 0;
-        "
-    >
-        <li
-        style="
-            background-color: rgb(255 255 255 / 0.05);
-            border: 1px solid rgb(255 255 255 / 0.1);
-            border-radius: 12px;
-            padding: 0.5em 0.8em;
-            transition: transform 0.2s ease, background-color 0.2s ease;
-        "
-        onmouseover="this.style.transform='scale(1.05)'; this.style.backgroundColor='rgb(255 255 255 / 0.1)'"
-        onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='rgb(255 255 255 / 0.05)'"
-        >
-        <img src="./assets/icon-html.svg" title="HTML5" alt="HTML5 Icon" height="40">
-        </li>
-        <li
-        style="
-            background-color: rgb(255 255 255 / 0.05);
-            border: 1px solid rgb(255 255 255 / 0.1);
-            border-radius: 12px;
-            padding: 0.5em 0.8em;
-            transition: transform 0.2s ease, background-color 0.2s ease;
-        "
-        onmouseover="this.style.transform='scale(1.05)'; this.style.backgroundColor='rgb(255 255 255 / 0.1)'"
-        onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='rgb(255 255 255 / 0.05)'"
-        >
-        <img src="./assets/icon-css.svg" title="CSS3" alt="CSS Icon" height="40">
-        </li>
-        <li
-        style="
-            background-color: rgb(255 255 255 / 0.05);
-            border: 1px solid rgb(255 255 255 / 0.1);
-            border-radius: 12px;
-            padding: 0.5em 0.8em;
-            transition: transform 0.2s ease, background-color 0.2s ease;
-        "
-        onmouseover="this.style.transform='scale(1.05)'; this.style.backgroundColor='rgb(255 255 255 / 0.1)'"
-        onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='rgb(255 255 255 / 0.05)'"
-        >
-        <img src="./assets/icon-js.svg" title="JavaScript" alt="JS Icon" height="40">
-        </li>
-        <li
-        style="
-            background-color: rgb(255 255 255 / 0.05);
-            border: 1px solid rgb(255 255 255 / 0.1);
-            border-radius: 12px;
-            padding: 0.5em 0.8em;
-            transition: transform 0.2s ease, background-color 0.2s ease;
-        "
-        onmouseover="this.style.transform='scale(1.05)'; this.style.backgroundColor='rgb(255 255 255 / 0.1)'"
-        onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='rgb(255 255 255 / 0.05)'"
-        >
-        <img src="./assets/icon-tailwind.svg" title="Tailwind" alt="TAILWIND Icon" height="40">
-        </li>
-        <li
-        style="
-            background-color: rgb(255 255 255 / 0.05);
-            border: 1px solid rgb(255 255 255 / 0.1);
-            border-radius: 12px;
-            padding: 0.5em 0.8em;
-            transition: transform 0.2s ease, background-color 0.2s ease;
-        "
-        onmouseover="this.style.transform='scale(1.05)'; this.style.backgroundColor='rgb(255 255 255 / 0.1)'"
-        onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='rgb(255 255 255 / 0.05)'"
-        >
-        <img src="./assets/icon-react.svg" title="React" alt="REACT Icon" height="40">
-        </li>
-    </ul>
-  </section>
-  <section stlye="width: 100%">
-    <!-- GitHub Stats -->
-    <h2 style="margin: 0; margin-bottom: 0.5em; padding: 0; letter-spacing: 2.5px;">Mi actividad en GitHub 📊</h2>
-    <div
-        style="
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        list-style: none;
-        padding: 0;
-        margin: 0;
-        "
-    >
-        <figure
-        style="
-            background-color: rgb(255 255 255 / 0.05);
-            border: 1px solid rgb(255 255 255 / 0.1);
-            border-radius: 12px;
-            padding: 1em;
-            transition: transform 0.2s ease, background-color 0.2s ease;
-            margin: 0;
-            paddng: 0;
-        "
-        onmouseover="this.style.transform='scale(1.03)'; this.style.backgroundColor='rgb(255 255 255 / 0.1)'"
-        onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='rgb(255 255 255 / 0.05)'"
-        >
-        <img
-            src="https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/overview.svg#gh-dark-mode-only"
-            alt="GitHub Overview"
-            style="max-width: 100%; height: auto; border-radius: 8px;"
-        />
-        </figure>
-        <figure
-        style="
-            background-color: rgb(255 255 255 / 0.05);
-            border: 1px solid rgb(255 255 255 / 0.1);
-            border-radius: 12px;
-            padding: 1em;
-            transition: transform 0.2s ease, background-color 0.2s ease;
-            margin: 0;
-            padding: 0;
-        "
-        onmouseover="this.style.transform='scale(1.03)'; this.style.backgroundColor='rgb(255 255 255 / 0.1)'"
-        onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='rgb(255 255 255 / 0.05)'"
-        >
-        <img
-            src="https://raw.githubusercontent.com/Carlos-Marte/github-stats/master/generated/languages.svg#gh-dark-mode-only"
-            alt="GitHub Languages"
-            style="max-width: 100%; height: auto; border-radius: 8px;"
-        />
-        </figure>
-    </div>
-  </section>
-</main>
+<div align="center">
+  <img height="200" src="./assets/profile.webp"  />
+</div>
+
+###
+
+<p align="center">💻 Desarrollador Frontend dedicado a soluciones eficientes, legibles y mantenibles. 💪 Mejorando cada día.</p>
+
+###
+
+<h2 align="center">Habilidades ⚙️</h2>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=#d7b2df"  />
+</div>
+
+###
